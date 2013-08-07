@@ -1,0 +1,3 @@
+2013-01-10 22:33:17,107 INFO  [DataBase] url : jdbc:sqlite:db_echecs.db
+2013-01-10 22:33:18,325 INFO  [DataBase] BDD OK
+2013-01-10 22:33:18,340 INFO  [Server] Lancement du serveur

@@ -1,0 +1,231 @@
+2012-12-26 20:57:38,208 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 20:57:39,162 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 20:57:39,396 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 20:57:44,358 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 20:57:50,381 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 20:57:56,404 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 20:58:02,433 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 20:58:08,456 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 20:58:14,478 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 20:58:20,501 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 20:58:26,525 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 20:58:32,547 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 20:58:32,673 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 20:58:32,673 INFO  [NetworkClient] End of the network session
+2012-12-26 21:03:43,232 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:03:43,479 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:03:43,931 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:03:45,502 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:03:45,508 INFO  [NetworkClient] End of the network session
+2012-12-26 21:11:07,031 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:11:07,259 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:13:10,972 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : No installed provider supports this key: (null)
+2012-12-26 21:13:11,974 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:13:17,979 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:13:23,980 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:13:29,982 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:13:35,987 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:13:41,991 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:13:47,995 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:13:54,001 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:14:00,002 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:14:06,006 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:14:12,009 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:14:18,013 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:14:24,028 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:14:30,040 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:14:36,048 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:14:42,051 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:14:48,053 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:14:54,055 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:15:00,058 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:15:06,061 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:15:12,077 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:15:18,081 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:15:24,084 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:15:30,087 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:15:36,090 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:15:42,112 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:15:48,113 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:15:54,117 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:16:00,120 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:16:06,123 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:16:12,127 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:16:18,130 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:16:24,133 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:16:30,137 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:16:36,140 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:16:42,143 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:16:48,147 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:16:54,150 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:17:00,153 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:17:06,158 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:17:12,161 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:17:18,165 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:17:24,169 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:17:30,173 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:17:36,178 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:17:42,181 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:17:48,184 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:17:54,188 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:18:00,191 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:18:06,194 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:18:12,198 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:18:18,202 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:18:24,205 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:18:30,209 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:18:36,212 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:18:42,216 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:18:48,220 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:18:54,223 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:19:00,225 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:19:06,167 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:20:38,910 ERROR [NetworkClient] Failed to read object.
+2012-12-26 21:20:42,232 ERROR [NetworkClient] send object failed : Software caused connection abort: socket write error
+2012-12-26 21:20:42,241 ERROR [NetworkClient] Failed to read object.
+2012-12-26 21:20:45,093 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:20:45,096 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:20:45,097 INFO  [NetworkClient] End of the network session
+2012-12-26 21:20:51,152 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:20:51,489 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:20:51,591 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:22:01,601 ERROR [NetworkClient] Failed to read object.
+2012-12-26 21:23:16,009 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:23:16,096 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:23:16,252 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:23:21,470 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:23:21,471 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:23:21,472 INFO  [NetworkClient] End of the network session
+2012-12-26 21:26:06,408 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:26:06,482 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:26:06,618 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:26:32,160 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:26:32,163 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:26:32,163 INFO  [NetworkClient] End of the network session
+2012-12-26 21:27:59,786 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:28:00,047 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:28:00,164 WARN  [NetworkEventManager] No handler to fire the message.Authentication object
+2012-12-26 21:28:00,164 INFO  [NetworkClient] User just connected
+2012-12-26 21:28:00,193 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-26 21:28:00,198 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-26 21:28:00,250 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:28:17,249 WARN  [NetworkEventManager] No handler to fire the message.Authentication object
+2012-12-26 21:28:17,250 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-26 21:28:23,116 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-26 21:28:34,055 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:28:34,060 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:28:34,061 INFO  [NetworkClient] End of the network session
+2012-12-26 21:31:42,077 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:31:42,157 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:31:42,320 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:32:07,631 ERROR [NetworkClient] send object failed : Connection reset by peer: socket write error
+2012-12-26 21:32:11,346 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:32:11,348 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:32:11,348 INFO  [NetworkClient] End of the network session
+2012-12-26 21:32:18,308 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:32:18,463 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:32:18,529 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:32:18,643 INFO  [LoginGUI] Authentication successed.
+2012-12-26 21:32:18,829 INFO  [NetworkClient] User just connected
+2012-12-26 21:32:18,844 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-26 21:32:18,846 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-26 21:32:20,870 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:32:20,875 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:32:20,876 INFO  [NetworkClient] End of the network session
+2012-12-26 21:33:57,154 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:33:57,427 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:33:57,547 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:34:12,957 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:34:12,959 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:34:12,959 INFO  [NetworkClient] End of the network session
+2012-12-26 21:34:59,013 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:34:59,146 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:34:59,170 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:37:25,885 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:37:26,149 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:37:26,454 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:38:49,463 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:38:49,466 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:38:49,466 INFO  [NetworkClient] End of the network session
+2012-12-26 21:39:18,500 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:39:18,612 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:39:18,663 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:39:20,587 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:39:20,589 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:39:20,589 INFO  [NetworkClient] End of the network session
+2012-12-26 21:42:21,509 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:42:21,583 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:42:21,647 WARN  [NetworkEventManager] No handler to fire the message.Authentication object
+2012-12-26 21:42:21,647 INFO  [NetworkClient] User just connected
+2012-12-26 21:42:21,714 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:42:21,930 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-26 21:42:21,932 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-26 21:42:23,849 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:42:23,854 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:42:23,855 INFO  [NetworkClient] End of the network session
+2012-12-26 21:42:57,060 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:42:57,439 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:42:57,451 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:42:57,693 WARN  [NetworkEventManager] No handler to fire the message.Authentication object
+2012-12-26 21:42:57,694 INFO  [NetworkClient] User just connected
+2012-12-26 21:42:57,956 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-26 21:42:57,960 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-26 21:43:26,221 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:43:26,415 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:43:26,532 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:43:26,665 WARN  [NetworkEventManager] No handler to fire the message.Authentication object
+2012-12-26 21:43:26,665 INFO  [NetworkClient] User just connected
+2012-12-26 21:43:26,965 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-26 21:43:26,970 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-26 21:43:52,069 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : null
+2012-12-26 21:43:58,076 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:44:03,722 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:44:03,903 INFO  [LoginGUI] Authentication successed.
+2012-12-26 21:44:04,001 INFO  [NetworkClient] User just connected
+2012-12-26 21:44:04,233 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-26 21:44:04,235 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-26 21:44:08,005 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:44:08,010 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:44:08,011 INFO  [NetworkClient] End of the network session
+2012-12-26 21:44:20,432 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:44:20,669 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:44:21,145 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-12-26 21:44:26,693 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:44:26,953 INFO  [LoginGUI] Authentication successed.
+2012-12-26 21:44:27,045 INFO  [NetworkClient] User just connected
+2012-12-26 21:44:27,294 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-26 21:44:27,301 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-26 21:44:30,029 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:44:30,033 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:44:30,033 INFO  [NetworkClient] End of the network session
+2012-12-26 21:46:01,268 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:46:01,304 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:46:01,437 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:46:01,440 WARN  [NetworkEventManager] No handler to fire the message.Authentication object
+2012-12-26 21:46:01,440 INFO  [NetworkClient] User just connected
+2012-12-26 21:46:01,693 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-26 21:46:01,695 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-26 21:46:17,357 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : null
+2012-12-26 21:46:23,686 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:46:23,920 INFO  [LoginGUI] Authentication successed.
+2012-12-26 21:46:24,001 INFO  [NetworkClient] User just connected
+2012-12-26 21:46:24,181 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-26 21:46:24,182 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-26 21:46:28,631 INFO  [LoginGUI] Authentication successed.
+2012-12-26 21:46:28,633 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-26 21:46:28,637 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-26 21:46:32,504 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-26 21:46:34,557 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-26 21:46:36,715 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:46:36,722 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:46:36,722 INFO  [NetworkClient] End of the network session
+2012-12-26 21:46:42,617 WARN  [GImage] Fichier bq.png indisponible
+2012-12-26 21:46:42,638 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-26 21:46:42,755 WARN  [GImage] Fichier sx.png indisponible
+2012-12-26 21:46:42,813 WARN  [NetworkEventManager] No handler to fire the message.Authentication object
+2012-12-26 21:46:42,813 INFO  [NetworkClient] User just connected
+2012-12-26 21:46:43,142 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-26 21:46:43,145 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-26 21:46:50,117 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-26 21:46:50,120 INFO  [NetworkClient] Disconnection requested
+2012-12-26 21:46:50,120 INFO  [NetworkClient] End of the network session

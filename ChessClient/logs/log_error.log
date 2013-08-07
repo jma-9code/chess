@@ -1,0 +1,5 @@
+2012-12-26 21:20:38,910 ERROR [NetworkClient] Failed to read object.
+2012-12-26 21:20:42,232 ERROR [NetworkClient] send object failed : Software caused connection abort: socket write error
+2012-12-26 21:20:42,241 ERROR [NetworkClient] Failed to read object.
+2012-12-26 21:22:01,601 ERROR [NetworkClient] Failed to read object.
+2012-12-26 21:32:07,631 ERROR [NetworkClient] send object failed : Connection reset by peer: socket write error

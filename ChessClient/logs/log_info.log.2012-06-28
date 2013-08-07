@@ -1,0 +1,7 @@
+2012-06-28 20:15:45,842 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-06-28 20:15:46,149 WARN  [GImage] Fichier bq.png indisponible
+2012-06-28 20:15:46,200 WARN  [GImage] Fichier cs.png indisponible
+2012-06-28 20:15:46,424 WARN  [GImage] Fichier sx.png indisponible
+2012-06-28 20:15:51,873 INFO  [NetworkClient] Unable to connect to server, will retry in 5s : connect timed out
+2012-06-28 20:15:51,964 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-06-28 20:15:51,968 INFO  [NetworkClient] End of the network session

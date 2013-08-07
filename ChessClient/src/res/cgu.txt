@@ -1,0 +1,6 @@
+Jeu d'échecs
+
+Conditions générales d'utilisation
+
+1. Seul Chuck Norris peut gagner à ce jeu
+2. Si vous n'êtes pas d'accord, référez-vous à la règle 1

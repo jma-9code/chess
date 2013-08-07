@@ -1,0 +1,83 @@
+2012-12-27 00:45:22,409 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-27 00:45:22,430 WARN  [GImage] Fichier bq.png indisponible
+2012-12-27 00:45:22,646 WARN  [GImage] Fichier sx.png indisponible
+2012-12-27 00:45:25,250 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-27 00:45:25,397 WARN  [GImage] Fichier bq.png indisponible
+2012-12-27 00:45:25,583 WARN  [GImage] Fichier sx.png indisponible
+2012-12-27 00:45:38,751 INFO  [LoginGUI] Authentication successed.
+2012-12-27 00:45:38,838 INFO  [NetworkClient] User just connected
+2012-12-27 00:45:38,854 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-27 00:45:38,856 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-27 00:46:03,210 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-27 00:46:03,211 INFO  [LoginGUI] Authentication successed.
+2012-12-27 00:46:03,307 INFO  [NetworkClient] User just connected
+2012-12-27 00:46:03,311 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-27 00:46:03,314 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-27 00:46:07,808 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:46:10,118 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:46:16,029 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:46:16,058 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:46:19,974 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:46:19,990 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:47:49,047 INFO  [PartyNetwork] End of network party
+2012-12-27 00:47:49,047 INFO  [PartyNetwork] Notification réseau de fin de partie
+2012-12-27 00:47:49,056 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:47:49,061 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:47:49,065 INFO  [PartyNetwork] End of network party
+2012-12-27 00:47:49,065 INFO  [PartyNetwork] Notification réseau de fin de partie
+2012-12-27 00:47:49,075 WARN  [NetworkEventManager] No handler to fire the message.party.EndParty object
+2012-12-27 00:47:49,117 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:47:49,137 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:47:52,764 WARN  [NetworkEventManager] No handler to fire the message.party.EndParty object
+2012-12-27 00:47:54,542 WARN  [NetworkEventManager] No handler to fire the message.party.EndParty object
+2012-12-27 00:47:54,543 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:47:54,545 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:47:55,461 WARN  [NetworkEventManager] No handler to fire the message.party.EndParty object
+2012-12-27 00:47:58,012 INFO  [PartyNetwork] End of network party
+2012-12-27 00:47:58,027 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:47:58,032 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:47:59,424 INFO  [PartyNetwork] End of network party
+2012-12-27 00:47:59,429 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:47:59,433 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:48:01,806 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:48:01,806 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:48:03,684 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:48:03,692 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:48:27,398 INFO  [PartyNetwork] End of network party
+2012-12-27 00:48:27,398 INFO  [PartyNetwork] Notification réseau de fin de partie
+2012-12-27 00:48:27,400 INFO  [PartyNetwork] End of network party
+2012-12-27 00:48:27,400 INFO  [PartyNetwork] Notification réseau de fin de partie
+2012-12-27 00:48:27,406 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:48:27,419 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:48:27,450 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:48:27,454 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:48:33,484 WARN  [NetworkEventManager] No handler to fire the message.party.EndParty object
+2012-12-27 00:48:35,351 WARN  [NetworkEventManager] No handler to fire the message.party.EndParty object
+2012-12-27 00:48:38,514 INFO  [PartyNetwork] End of network party
+2012-12-27 00:48:38,540 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:48:38,552 INFO  [PlayroomListPartiesGUI] 1 parties received
+2012-12-27 00:48:39,527 INFO  [PartyNetwork] End of network party
+2012-12-27 00:48:39,532 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:48:39,532 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:48:44,698 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:48:47,466 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:48:50,226 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:48:56,525 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:48:57,547 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:49:10,618 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-27 00:49:10,621 INFO  [NetworkClient] Disconnection requested
+2012-12-27 00:49:10,622 INFO  [NetworkClient] End of the network session
+2012-12-27 00:49:11,659 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-27 00:49:11,664 INFO  [NetworkClient] Disconnection requested
+2012-12-27 00:49:11,664 INFO  [NetworkClient] End of the network session
+2012-12-27 00:49:16,324 INFO  [NetworkClient] Streams I/O opened, ready for identification
+2012-12-27 00:49:16,349 WARN  [GImage] Fichier bq.png indisponible
+2012-12-27 00:49:16,546 WARN  [GImage] Fichier sx.png indisponible
+2012-12-27 00:49:21,471 INFO  [LoginGUI] Authentication successed.
+2012-12-27 00:49:21,563 INFO  [NetworkClient] User just connected
+2012-12-27 00:49:21,576 WARN  [NetworkEventManager] No handler to fire the message.ListPlayers object
+2012-12-27 00:49:21,578 WARN  [NetworkEventManager] No handler to fire the message.party.ListParties object
+2012-12-27 00:49:24,561 INFO  [PlayroomListPartiesGUI] 0 parties received
+2012-12-27 00:49:30,087 INFO  [Main] Hook shutdown : Arrêt du réseau
+2012-12-27 00:49:30,092 INFO  [NetworkClient] Disconnection requested
+2012-12-27 00:49:30,092 INFO  [NetworkClient] End of the network session

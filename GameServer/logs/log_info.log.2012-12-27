@@ -1,0 +1,376 @@
+2012-12-27 00:45:14,787 INFO  [DataBase] url : jdbc:sqlite:db_echecs.db
+2012-12-27 00:45:15,034 INFO  [DataBase] BDD OK
+2012-12-27 00:45:15,037 INFO  [Server] Lancement du serveur
+2012-12-27 00:45:21,529 INFO  [Server] Accepting a new client : /127.0.0.1:55619
+2012-12-27 00:45:21,535 INFO  [ClientManager] Attempt to connect : /127.0.0.1:55619
+2012-12-27 00:45:22,406 INFO  [Client] Streams I/O opened.
+2012-12-27 00:45:24,808 INFO  [Server] Accepting a new client : /127.0.0.1:55620
+2012-12-27 00:45:24,808 INFO  [ClientManager] Attempt to connect : /127.0.0.1:55620
+2012-12-27 00:45:25,256 INFO  [Client] Streams I/O opened.
+2012-12-27 00:45:38,665 INFO  [Client] Attempt to login.
+2012-12-27 00:45:38,669 INFO  [DataBase] Searching if the name test exists.
+2012-12-27 00:45:38,670 INFO  [DataBase] Fetching the hashed password of player test
+2012-12-27 00:45:38,671 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:45:38,671 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:45:38,724 INFO  [DataBase] Updating the date of last connection of the player whose name is test.
+2012-12-27 00:45:38,734 INFO  [Client] Login confirmed
+2012-12-27 00:45:38,734 INFO  [ClientManager] Client authentifie : test
+2012-12-27 00:45:47,395 INFO  [Client] Attempt to login.
+2012-12-27 00:45:47,396 INFO  [DataBase] Searching if the name cocu exists.
+2012-12-27 00:45:47,397 INFO  [DataBase] Fetching the hashed password of player cocu
+2012-12-27 00:45:47,399 INFO  [Client] The login contains error(s)
+2012-12-27 00:45:51,857 INFO  [Client] Attempt to login.
+2012-12-27 00:45:51,858 INFO  [DataBase] Searching if the name cocu exists.
+2012-12-27 00:45:51,859 INFO  [DataBase] Fetching the hashed password of player cocu
+2012-12-27 00:45:51,859 INFO  [Client] The login contains error(s)
+2012-12-27 00:45:56,412 INFO  [Client] Attempt to login.
+2012-12-27 00:45:56,413 INFO  [DataBase] Searching if the name cocu exists.
+2012-12-27 00:45:56,414 INFO  [DataBase] Fetching the hashed password of player cocu
+2012-12-27 00:45:56,414 INFO  [Client] The login contains error(s)
+2012-12-27 00:46:03,140 INFO  [Client] Attempt to login.
+2012-12-27 00:46:03,141 INFO  [DataBase] Searching if the name test2 exists.
+2012-12-27 00:46:03,142 INFO  [DataBase] Fetching the hashed password of player test2
+2012-12-27 00:46:03,143 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:46:03,144 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:46:03,199 INFO  [DataBase] Updating the date of last connection of the player whose name is test2.
+2012-12-27 00:46:03,206 INFO  [Client] Login confirmed
+2012-12-27 00:46:03,206 INFO  [ClientManager] Client authentifie : test2
+2012-12-27 00:46:15,994 INFO  [Client] Reception of a party object.
+2012-12-27 00:46:15,995 INFO  [Chess_Network] Client test wants to create a new party titled .
+2012-12-27 00:46:15,999 INFO  [Chess_PartyManager] 1 parties with just one added.
+2012-12-27 00:46:15,999 INFO  [Chess_PartyManager] Sent 1 parties
+2012-12-27 00:46:16,030 INFO  [Chess_Network] ID = 0
+2012-12-27 00:46:19,965 INFO  [Client] Reception of a party object.
+2012-12-27 00:46:19,965 INFO  [Chess_Network] Client test2 wants to join the party 0
+2012-12-27 00:46:19,966 INFO  [Chess_PartyManager] Sent 1 parties
+2012-12-27 00:46:22,036 INFO  [Client] Reception of a tchat object.
+2012-12-27 00:46:22,040 INFO  [Tchat] Sent the message "Lancement de la partie dans 5 secondes" in the party.
+2012-12-27 00:46:23,030 INFO  [Client] Reception of a tchat object.
+2012-12-27 00:46:23,031 INFO  [Tchat] Sent the message "Lancement de la partie dans 4 secondes" in the party.
+2012-12-27 00:46:24,031 INFO  [Client] Reception of a tchat object.
+2012-12-27 00:46:24,032 INFO  [Tchat] Sent the message "Lancement de la partie dans 3 secondes" in the party.
+2012-12-27 00:46:25,032 INFO  [Client] Reception of a tchat object.
+2012-12-27 00:46:25,033 INFO  [Tchat] Sent the message "Lancement de la partie dans 2 secondes" in the party.
+2012-12-27 00:46:26,034 INFO  [Client] Reception of a tchat object.
+2012-12-27 00:46:26,035 INFO  [Tchat] Sent the message "Lancement de la partie dans 1 seconde" in the party.
+2012-12-27 00:46:27,041 INFO  [Client] Reception of a party object.
+2012-12-27 00:46:27,041 INFO  [Chess_Network] Client test has started its party .
+2012-12-27 00:46:27,064 INFO  [DataBase] Fetching the identifier of player test2
+2012-12-27 00:46:27,065 INFO  [DataBase] Fetching the identifier of player test
+2012-12-27 00:46:27,137 INFO  [DataBase] Adding a new party.
+2012-12-27 00:46:27,137 INFO  [DataBase] Fetching the identifier of player test2
+2012-12-27 00:46:27,137 INFO  [DataBase] Fetching the identifier of player test
+2012-12-27 00:46:27,138 INFO  [DataBase] Fetching the id of a running party.
+2012-12-27 00:46:27,138 INFO  [Chess_Party] Party created in BDD !
+2012-12-27 00:46:33,427 INFO  [Client] Reception of a chess object.
+2012-12-27 00:46:33,429 INFO  [Chess_Network] Client test has sent a stroke.
+2012-12-27 00:47:45,516 INFO  [Client] Reception of a party object.
+2012-12-27 00:47:45,518 INFO  [Chess_Network] Client test2 has sent an event NullParty in the party .
+2012-12-27 00:47:45,518 INFO  [Chess_Network] The NullParty event is a question.
+2012-12-27 00:47:49,051 INFO  [Client] Reception of a party object.
+2012-12-27 00:47:49,052 INFO  [Chess_Network] Client test has sent an event stateOfPlayerChanged NULL in the party .
+2012-12-27 00:47:49,052 INFO  [Chess_PartyManager] Sent 1 parties
+2012-12-27 00:47:49,054 INFO  [Client] Reception of a party object.
+2012-12-27 00:47:49,055 INFO  [Chess_Network] Client test has sent an event NullParty in the party .
+2012-12-27 00:47:49,055 INFO  [Chess_Network] The NullParty event is an answer.
+2012-12-27 00:47:49,055 INFO  [Chess_Party] NullParty is accepted.
+2012-12-27 00:47:49,072 INFO  [Client] Reception of a party object.
+2012-12-27 00:47:49,073 INFO  [Chess_Network] Client test2 has sent an event stateOfPlayerChanged NULL in the party .
+2012-12-27 00:47:49,115 INFO  [DataBase] Updating the state of the party whose identifier is 2.
+2012-12-27 00:47:49,115 INFO  [Chess_Party] Party updated !
+2012-12-27 00:47:49,115 INFO  [Chess_Party] Sent EndParty (party :0) for all player IN
+2012-12-27 00:47:49,115 INFO  [Chess_PartyManager] Sent 1 parties
+2012-12-27 00:47:49,132 INFO  [DataBase] Updating the state of the party whose identifier is 2.
+2012-12-27 00:47:49,133 INFO  [Chess_Party] Party updated !
+2012-12-27 00:47:49,133 INFO  [Chess_Party] Sent EndParty (party :0) for all player IN
+2012-12-27 00:47:49,133 INFO  [Chess_PartyManager] Sent 1 parties
+2012-12-27 00:47:58,018 INFO  [Client] Reception of a party object.
+2012-12-27 00:47:58,018 INFO  [Chess_Network] Client test has sent an event LeftParty from the party .
+2012-12-27 00:47:58,019 INFO  [Chess_PartyManager] test has left the party 
+2012-12-27 00:47:58,019 INFO  [Chess_PartyManager] Sent 1 parties
+2012-12-27 00:47:59,428 INFO  [Client] Reception of a party object.
+2012-12-27 00:47:59,428 INFO  [Chess_Network] Client test2 has sent an event LeftParty from the party .
+2012-12-27 00:47:59,428 INFO  [Chess_PartyManager] test2 has left the party 
+2012-12-27 00:47:59,428 INFO  [Chess_PartyManager] Sent 0 parties
+2012-12-27 00:48:01,800 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:01,800 INFO  [Chess_Network] Client test wants to create a new party titled .
+2012-12-27 00:48:01,801 INFO  [Chess_PartyManager] 1 parties with just one added.
+2012-12-27 00:48:01,801 INFO  [Chess_PartyManager] Sent 1 parties
+2012-12-27 00:48:01,806 INFO  [Chess_Network] ID = 1
+2012-12-27 00:48:03,676 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:03,676 INFO  [Chess_Network] Client test2 wants to join the party 1
+2012-12-27 00:48:03,677 INFO  [Chess_PartyManager] Sent 1 parties
+2012-12-27 00:48:05,166 INFO  [Client] Reception of a tchat object.
+2012-12-27 00:48:05,166 INFO  [Tchat] Sent the message "Lancement de la partie dans 5 secondes" in the party.
+2012-12-27 00:48:06,167 INFO  [Client] Reception of a tchat object.
+2012-12-27 00:48:06,168 INFO  [Tchat] Sent the message "Lancement de la partie dans 4 secondes" in the party.
+2012-12-27 00:48:07,168 INFO  [Client] Reception of a tchat object.
+2012-12-27 00:48:07,168 INFO  [Tchat] Sent the message "Lancement de la partie dans 3 secondes" in the party.
+2012-12-27 00:48:08,169 INFO  [Client] Reception of a tchat object.
+2012-12-27 00:48:08,170 INFO  [Tchat] Sent the message "Lancement de la partie dans 2 secondes" in the party.
+2012-12-27 00:48:09,170 INFO  [Client] Reception of a tchat object.
+2012-12-27 00:48:09,171 INFO  [Tchat] Sent the message "Lancement de la partie dans 1 seconde" in the party.
+2012-12-27 00:48:10,172 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:10,172 INFO  [Chess_Network] Client test has started its party .
+2012-12-27 00:48:10,180 INFO  [DataBase] Fetching the identifier of player test
+2012-12-27 00:48:10,181 INFO  [DataBase] Fetching the identifier of player test2
+2012-12-27 00:48:10,236 INFO  [DataBase] Adding a new party.
+2012-12-27 00:48:10,236 INFO  [DataBase] Fetching the identifier of player test
+2012-12-27 00:48:10,237 INFO  [DataBase] Fetching the identifier of player test2
+2012-12-27 00:48:10,237 INFO  [DataBase] Fetching the id of a running party.
+2012-12-27 00:48:10,237 INFO  [Chess_Party] Party created in BDD !
+2012-12-27 00:48:16,124 INFO  [Client] Reception of a chess object.
+2012-12-27 00:48:16,124 INFO  [Chess_Network] Client test2 has sent a stroke.
+2012-12-27 00:48:22,052 INFO  [Client] Reception of a chess object.
+2012-12-27 00:48:22,052 INFO  [Chess_Network] Client test has sent a stroke.
+2012-12-27 00:48:24,006 INFO  [Client] Reception of a chess object.
+2012-12-27 00:48:24,006 INFO  [Chess_Network] Client test2 has sent a stroke.
+2012-12-27 00:48:27,394 INFO  [Client] Reception of a chess object.
+2012-12-27 00:48:27,394 INFO  [Chess_Network] Client test has sent a stroke.
+2012-12-27 00:48:27,402 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:27,402 INFO  [Chess_Network] Client test has sent an event stateOfPlayerChanged WIN in the party .
+2012-12-27 00:48:27,402 INFO  [Chess_PartyManager] Sent 1 parties
+2012-12-27 00:48:27,403 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:27,403 INFO  [Chess_Network] Client test2 has sent an event stateOfPlayerChanged LOSE in the party .
+2012-12-27 00:48:27,407 INFO  [DataBase] Fetching the identifier of player test
+2012-12-27 00:48:27,413 INFO  [DataBase] Updating the state of the party whose identifier is 3.
+2012-12-27 00:48:27,414 INFO  [Chess_Party] Party updated !
+2012-12-27 00:48:27,414 INFO  [Chess_Party] Sent EndParty (party :1) for all player IN
+2012-12-27 00:48:27,430 INFO  [DataBase] Updating the score of the player whose name is test2.
+2012-12-27 00:48:27,445 INFO  [DataBase] Updating the score of the player whose name is test.
+2012-12-27 00:48:27,446 INFO  [Chess_PartyManager] Sent 1 parties
+2012-12-27 00:48:38,531 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:38,531 INFO  [Chess_Network] Client test has sent an event LeftParty from the party .
+2012-12-27 00:48:38,531 INFO  [Chess_PartyManager] test has left the party 
+2012-12-27 00:48:38,532 INFO  [Chess_PartyManager] Sent 1 parties
+2012-12-27 00:48:39,531 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:39,531 INFO  [Chess_Network] Client test2 has sent an event LeftParty from the party .
+2012-12-27 00:48:39,531 INFO  [Chess_PartyManager] test2 has left the party 
+2012-12-27 00:48:39,531 INFO  [Chess_PartyManager] Sent 0 parties
+2012-12-27 00:48:44,680 INFO  [Client] Reception of a client object.
+2012-12-27 00:48:44,681 INFO  [ClientManager] Client /127.0.0.1:55620 requests the list of clients.
+2012-12-27 00:48:44,681 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:44,681 INFO  [Chess_Network] Client test requests the list of parties.
+2012-12-27 00:48:44,685 INFO  [Client] Reception of a chess object.
+2012-12-27 00:48:44,686 INFO  [DataBase] Fetching the identifier of player test
+2012-12-27 00:48:44,686 INFO  [DataBase] Fetching the email of player test
+2012-12-27 00:48:44,686 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:44,687 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:44,687 INFO  [DataBase] Fetching the date of subscription of player test
+2012-12-27 00:48:44,687 INFO  [DataBase] Fetching the last connection date of player test
+2012-12-27 00:48:44,687 INFO  [DataBase] Fetching the parties list
+2012-12-27 00:48:44,688 INFO  [DataBase] Fetching the name of player id 28
+2012-12-27 00:48:44,688 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:44,688 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:44,689 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:44,689 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:44,690 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:48:44,690 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:48:44,691 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:44,691 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:44,692 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:44,692 INFO  [DataBase] Fetching the name of player id 28
+2012-12-27 00:48:44,692 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:44,692 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:44,692 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:48:44,692 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:48:44,692 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:44,693 INFO  [DataBase] Fetching the name of player id 26
+2012-12-27 00:48:44,693 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:44,693 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:44,693 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:44,693 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:44,693 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:44,694 INFO  [DataBase] Fetching the country of player cocu
+2012-12-27 00:48:44,694 INFO  [DataBase] Fetching the score of player cocu
+2012-12-27 00:48:44,694 INFO  [DataBase] Fetching the name of player id 26
+2012-12-27 00:48:44,694 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:44,694 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:44,694 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:44,694 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:44,695 INFO  [DataBase] Fetching the country of player cocu
+2012-12-27 00:48:44,695 INFO  [DataBase] Fetching the score of player cocu
+2012-12-27 00:48:44,695 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:44,695 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:47,463 INFO  [Client] Reception of a client object.
+2012-12-27 00:48:47,463 INFO  [ClientManager] Client /127.0.0.1:55619 requests the list of clients.
+2012-12-27 00:48:47,465 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:47,465 INFO  [Chess_Network] Client test2 requests the list of parties.
+2012-12-27 00:48:47,466 INFO  [Client] Reception of a chess object.
+2012-12-27 00:48:47,467 INFO  [DataBase] Fetching the identifier of player test
+2012-12-27 00:48:47,467 INFO  [DataBase] Fetching the email of player test
+2012-12-27 00:48:47,467 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:47,467 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:47,467 INFO  [DataBase] Fetching the date of subscription of player test
+2012-12-27 00:48:47,468 INFO  [DataBase] Fetching the last connection date of player test
+2012-12-27 00:48:47,468 INFO  [DataBase] Fetching the parties list
+2012-12-27 00:48:47,468 INFO  [DataBase] Fetching the name of player id 28
+2012-12-27 00:48:47,468 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:47,468 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:47,469 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:47,469 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:47,469 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:48:47,469 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:48:47,469 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:47,469 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:47,470 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:47,470 INFO  [DataBase] Fetching the name of player id 28
+2012-12-27 00:48:47,470 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:47,470 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:47,470 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:48:47,470 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:48:47,470 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:47,470 INFO  [DataBase] Fetching the name of player id 26
+2012-12-27 00:48:47,471 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:47,471 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:47,471 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:47,471 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:47,471 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:47,471 INFO  [DataBase] Fetching the country of player cocu
+2012-12-27 00:48:47,471 INFO  [DataBase] Fetching the score of player cocu
+2012-12-27 00:48:47,472 INFO  [DataBase] Fetching the name of player id 26
+2012-12-27 00:48:47,472 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:47,472 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:47,472 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:47,472 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:47,472 INFO  [DataBase] Fetching the country of player cocu
+2012-12-27 00:48:47,472 INFO  [DataBase] Fetching the score of player cocu
+2012-12-27 00:48:47,472 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:47,473 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:50,215 INFO  [Client] Reception of a client object.
+2012-12-27 00:48:50,216 INFO  [ClientManager] Client /127.0.0.1:55620 requests the list of clients.
+2012-12-27 00:48:50,218 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:50,218 INFO  [Chess_Network] Client test requests the list of parties.
+2012-12-27 00:48:50,231 INFO  [Client] Reception of a chess object.
+2012-12-27 00:48:50,232 INFO  [DataBase] Fetching the identifier of player test
+2012-12-27 00:48:50,233 INFO  [DataBase] Fetching the email of player test
+2012-12-27 00:48:50,233 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:50,233 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:50,234 INFO  [DataBase] Fetching the date of subscription of player test
+2012-12-27 00:48:50,234 INFO  [DataBase] Fetching the last connection date of player test
+2012-12-27 00:48:50,235 INFO  [DataBase] Fetching the parties list
+2012-12-27 00:48:50,235 INFO  [DataBase] Fetching the name of player id 28
+2012-12-27 00:48:50,235 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:50,236 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:50,236 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:50,237 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:50,237 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:48:50,237 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:48:50,237 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:50,238 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:50,238 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:50,239 INFO  [DataBase] Fetching the name of player id 28
+2012-12-27 00:48:50,239 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:50,240 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:50,240 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:48:50,240 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:48:50,240 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:50,240 INFO  [DataBase] Fetching the name of player id 26
+2012-12-27 00:48:50,241 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:50,241 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:50,241 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:50,241 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:50,241 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:50,242 INFO  [DataBase] Fetching the country of player cocu
+2012-12-27 00:48:50,242 INFO  [DataBase] Fetching the score of player cocu
+2012-12-27 00:48:50,242 INFO  [DataBase] Fetching the name of player id 26
+2012-12-27 00:48:50,245 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:50,245 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:50,245 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:50,245 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:50,246 INFO  [DataBase] Fetching the country of player cocu
+2012-12-27 00:48:50,246 INFO  [DataBase] Fetching the score of player cocu
+2012-12-27 00:48:50,246 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:50,246 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:56,495 INFO  [Client] Reception of a client object.
+2012-12-27 00:48:56,496 INFO  [ClientManager] Client /127.0.0.1:55620 requests the list of clients.
+2012-12-27 00:48:56,498 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:56,498 INFO  [Chess_Network] Client test requests the list of parties.
+2012-12-27 00:48:56,509 INFO  [Client] Reception of a chess object.
+2012-12-27 00:48:56,510 INFO  [DataBase] Fetching the identifier of player test2
+2012-12-27 00:48:56,510 INFO  [DataBase] Fetching the email of player test2
+2012-12-27 00:48:56,511 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:48:56,511 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:48:56,512 INFO  [DataBase] Fetching the date of subscription of player test2
+2012-12-27 00:48:56,512 INFO  [DataBase] Fetching the last connection date of player test2
+2012-12-27 00:48:56,513 INFO  [DataBase] Fetching the parties list
+2012-12-27 00:48:56,514 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:56,514 INFO  [DataBase] Fetching the name of player id 28
+2012-12-27 00:48:56,515 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:56,515 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:56,515 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:48:56,516 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:48:56,516 INFO  [DataBase] Fetching the name of player id 28
+2012-12-27 00:48:56,516 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:56,517 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:56,517 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:56,518 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:56,518 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:48:56,518 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:48:56,519 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:56,519 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:57,537 INFO  [Client] Reception of a client object.
+2012-12-27 00:48:57,537 INFO  [ClientManager] Client /127.0.0.1:55620 requests the list of clients.
+2012-12-27 00:48:57,540 INFO  [Client] Reception of a party object.
+2012-12-27 00:48:57,540 INFO  [Chess_Network] Client test requests the list of parties.
+2012-12-27 00:48:57,543 INFO  [Client] Reception of a chess object.
+2012-12-27 00:48:57,544 INFO  [DataBase] Fetching the identifier of player test
+2012-12-27 00:48:57,544 INFO  [DataBase] Fetching the email of player test
+2012-12-27 00:48:57,545 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:57,545 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:57,545 INFO  [DataBase] Fetching the date of subscription of player test
+2012-12-27 00:48:57,546 INFO  [DataBase] Fetching the last connection date of player test
+2012-12-27 00:48:57,546 INFO  [DataBase] Fetching the parties list
+2012-12-27 00:48:57,547 INFO  [DataBase] Fetching the name of player id 28
+2012-12-27 00:48:57,548 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:57,548 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:57,548 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:57,548 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:57,549 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:48:57,549 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:48:57,549 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:57,549 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:57,549 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:57,550 INFO  [DataBase] Fetching the name of player id 28
+2012-12-27 00:48:57,550 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:57,550 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:57,550 INFO  [DataBase] Fetching the country of player test2
+2012-12-27 00:48:57,550 INFO  [DataBase] Fetching the score of player test2
+2012-12-27 00:48:57,551 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:57,551 INFO  [DataBase] Fetching the name of player id 26
+2012-12-27 00:48:57,551 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:57,551 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:57,551 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:57,552 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:57,552 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:57,552 INFO  [DataBase] Fetching the country of player cocu
+2012-12-27 00:48:57,552 INFO  [DataBase] Fetching the score of player cocu
+2012-12-27 00:48:57,552 INFO  [DataBase] Fetching the name of player id 26
+2012-12-27 00:48:57,553 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:57,553 INFO  [DataBase] Fetching the name of player id 27
+2012-12-27 00:48:57,553 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:57,553 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:48:57,553 INFO  [DataBase] Fetching the country of player cocu
+2012-12-27 00:48:57,554 INFO  [DataBase] Fetching the score of player cocu
+2012-12-27 00:48:57,554 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:48:57,554 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:49:10,624 ERROR [Client] Input stream of client test2 just closed
+2012-12-27 00:49:10,676 ERROR [ClientManager] Client has disconnected !
+2012-12-27 00:49:10,676 INFO  [ClientManager] Client deconnexion : test2
+2012-12-27 00:49:11,662 ERROR [Client] Input stream of client test just closed
+2012-12-27 00:49:11,664 ERROR [ClientManager] Client has disconnected !
+2012-12-27 00:49:11,665 INFO  [ClientManager] Client deconnexion : test
+2012-12-27 00:49:15,770 INFO  [Server] Accepting a new client : /127.0.0.1:55674
+2012-12-27 00:49:15,770 INFO  [ClientManager] Attempt to connect : /127.0.0.1:55674
+2012-12-27 00:49:16,321 INFO  [Client] Streams I/O opened.
+2012-12-27 00:49:21,454 INFO  [Client] Attempt to login.
+2012-12-27 00:49:21,454 INFO  [DataBase] Searching if the name test exists.
+2012-12-27 00:49:21,454 INFO  [DataBase] Fetching the hashed password of player test
+2012-12-27 00:49:21,455 INFO  [DataBase] Fetching the score of player test
+2012-12-27 00:49:21,455 INFO  [DataBase] Fetching the country of player test
+2012-12-27 00:49:21,462 INFO  [DataBase] Updating the date of last connection of the player whose name is test.
+2012-12-27 00:49:21,463 INFO  [Client] Login confirmed
+2012-12-27 00:49:21,464 INFO  [ClientManager] Client authentifie : test
+2012-12-27 00:49:30,092 ERROR [Client] Input stream of client test just closed
+2012-12-27 00:49:30,093 ERROR [ClientManager] Client has disconnected !
+2012-12-27 00:49:30,093 INFO  [ClientManager] Client deconnexion : test

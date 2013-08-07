@@ -1,0 +1,50 @@
+2012-12-26 21:04:56,183 INFO  [DataBase] url : jdbc:sqlite:db_echecs.db
+2012-12-26 21:04:56,377 INFO  [DataBase] BDD OK
+2012-12-26 21:04:56,406 INFO  [Server] Lancement du serveur
+2012-12-26 21:27:44,696 INFO  [DataBase] url : jdbc:sqlite:db_echecs.db
+2012-12-26 21:27:45,317 INFO  [DataBase] BDD OK
+2012-12-26 21:27:45,321 INFO  [Server] Lancement du serveur
+2012-12-26 21:27:59,133 INFO  [Server] Accepting a new client : /127.0.0.1:52164
+2012-12-26 21:27:59,138 INFO  [ClientManager] Attempt to connect : /127.0.0.1:52164
+2012-12-26 21:28:00,064 INFO  [Client] Streams I/O opened.
+2012-12-26 21:28:00,137 INFO  [Client] Attempt to login.
+2012-12-26 21:28:00,139 INFO  [DataBase] Searching if the name test exists.
+2012-12-26 21:28:00,140 INFO  [DataBase] Fetching the hashed password of player test
+2012-12-26 21:28:00,141 INFO  [DataBase] Fetching the score of player test
+2012-12-26 21:28:00,142 INFO  [DataBase] Fetching the country of player test
+2012-12-26 21:28:00,151 INFO  [DataBase] Updating the date of last connection of the player whose name is test.
+2012-12-26 21:28:00,160 INFO  [Client] Login confirmed
+2012-12-26 21:28:00,161 INFO  [ClientManager] Client authentifie : test
+2012-12-26 21:28:23,084 INFO  [Client] Reception of a client object.
+2012-12-26 21:28:23,084 INFO  [ClientManager] Client /127.0.0.1:52164 requests the list of clients.
+2012-12-26 21:28:23,086 INFO  [Client] Reception of a party object.
+2012-12-26 21:28:23,087 INFO  [Chess_Network] Client test requests the list of parties.
+2012-12-26 21:28:23,094 INFO  [Client] Reception of a chess object.
+2012-12-26 21:28:23,094 INFO  [DataBase] Fetching the identifier of player test
+2012-12-26 21:28:23,094 INFO  [DataBase] Fetching the email of player test
+2012-12-26 21:28:23,095 INFO  [DataBase] Fetching the country of player test
+2012-12-26 21:28:23,095 INFO  [DataBase] Fetching the score of player test
+2012-12-26 21:28:23,095 INFO  [DataBase] Fetching the date of subscription of player test
+2012-12-26 21:28:23,095 INFO  [DataBase] Fetching the last connection date of player test
+2012-12-26 21:28:23,096 INFO  [DataBase] Fetching the parties list
+2012-12-26 21:28:23,096 INFO  [DataBase] Fetching the name of player id 27
+2012-12-26 21:28:23,096 INFO  [DataBase] Fetching the name of player id 26
+2012-12-26 21:28:23,096 INFO  [DataBase] Fetching the name of player id 27
+2012-12-26 21:28:23,097 INFO  [DataBase] Fetching the country of player test
+2012-12-26 21:28:23,097 INFO  [DataBase] Fetching the score of player test
+2012-12-26 21:28:23,098 INFO  [DataBase] Fetching the country of player test
+2012-12-26 21:28:23,098 INFO  [DataBase] Fetching the score of player test
+2012-12-26 21:28:23,098 INFO  [DataBase] Fetching the country of player cocu
+2012-12-26 21:28:23,099 INFO  [DataBase] Fetching the score of player cocu
+2012-12-26 21:28:23,099 INFO  [DataBase] Fetching the name of player id 26
+2012-12-26 21:28:23,099 INFO  [DataBase] Fetching the name of player id 27
+2012-12-26 21:28:23,099 INFO  [DataBase] Fetching the name of player id 27
+2012-12-26 21:28:23,099 INFO  [DataBase] Fetching the country of player test
+2012-12-26 21:28:23,099 INFO  [DataBase] Fetching the score of player test
+2012-12-26 21:28:23,099 INFO  [DataBase] Fetching the country of player cocu
+2012-12-26 21:28:23,100 INFO  [DataBase] Fetching the score of player cocu
+2012-12-26 21:28:23,100 INFO  [DataBase] Fetching the country of player test
+2012-12-26 21:28:23,100 INFO  [DataBase] Fetching the score of player test
+2012-12-26 21:28:34,057 ERROR [Client] Input stream of client test just closed
+2012-12-26 21:28:34,058 ERROR [ClientManager] Client has disconnected !
+2012-12-26 21:28:34,059 INFO  [ClientManager] Client deconnexion : test

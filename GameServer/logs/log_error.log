@@ -1,0 +1,6 @@
+2012-12-27 00:49:10,624 ERROR [Client] Input stream of client test2 just closed
+2012-12-27 00:49:10,676 ERROR [ClientManager] Client has disconnected !
+2012-12-27 00:49:11,662 ERROR [Client] Input stream of client test just closed
+2012-12-27 00:49:11,664 ERROR [ClientManager] Client has disconnected !
+2012-12-27 00:49:30,092 ERROR [Client] Input stream of client test just closed
+2012-12-27 00:49:30,093 ERROR [ClientManager] Client has disconnected !

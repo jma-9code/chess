@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j='http://jakarta.apache.org/log4j/'>
+	
+	<appender name="Console" class="org.apache.log4j.ConsoleAppender">
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%4rms [%t] %-5p %c - %m%n" />
+		</layout>
+	</appender>
+	
+	<appender name="LogLevelInfoFile" class="org.apache.log4j.DailyRollingFileAppender">
+		<param name="File" value="logs/log_info.log"/>
+		<param name="Threshold" value="INFO"/>
+		<param name="DatePattern" value="'.'yyyy-MM-dd"/>
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d %-5p [%c{1}] %m%n" />
+		</layout>
+	</appender>
+	
+	<appender name="LogLevelErrorFile" class="org.apache.log4j.DailyRollingFileAppender">
+		<param name="File" value="logs/log_error.log"/>
+		<param name="Threshold" value="ERROR"/>
+		<param name="DatePattern" value="'.'yyyy-MM-dd"/>
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d %-5p [%c{1}] %m%n" />
+		</layout>
+	</appender>
+	
+	<root>
+		<level value="DEBUG" />
+		<appender-ref ref="Console" />
+		<appender-ref ref="LogLevelInfoFile" />
+		<appender-ref ref="LogLevelErrorFile" />
+	</root>
+	
+</log4j:configuration>
